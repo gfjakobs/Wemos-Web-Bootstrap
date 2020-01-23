@@ -2,8 +2,8 @@
 #include <ESP8266WebServer.h>
 #include "FastLED.h"
 
-#define ssid      "xxxx"       // WiFi SSID
-#define password  "xxxx"
+#define ssid      "snobel"       // WiFi SSID
+#define password  "xxxxx"
 
 
 #define NUM_LEDS      60
